@@ -1,19 +1,20 @@
-# Vesktop
+# Scorntop
 
-Vesktop is a custom Discord desktop app
+Scorntop is a custom Discord desktop app
 
 **Main features**:
 - Vencord preinstalled
 - Much more lightweight and faster than the official Discord app
 - Linux Screenshare with sound & wayland
 - Much better privacy, since Discord has no access to your system
+- Compatibility to Windows 7
 
 **Not yet supported**:
 - Global Keybinds
 - see the [Roadmap](https://github.com/Vencord/Vesktop/issues/324)
 
-![](https://github.com/Vencord/Vesktop/assets/45497981/8608a899-96a9-4027-9725-2cb02ba189fd)
-![](https://github.com/Vencord/Vesktop/assets/45497981/8701e5de-52c4-4346-a990-719cb971642e)
+![](https://github.com/Scorncord/Scorntop/assets/45497981/8608a899-96a9-4027-9725-2cb02ba189fd)
+![](https://github.com/Scorncord/Scorntop/assets/45497981/8701e5de-52c4-4346-a990-719cb971642e)
 
 ## Installing
 
@@ -21,14 +22,14 @@ Vesktop is a custom Discord desktop app
 
 If you don't know the difference, pick the Installer.
 
-- [Installer](https://vencord.dev/download/vesktop/universal/windows)
+- [Installer](https://scorncord.erroroliver.lol/download/vesktop/universal/windows)
 - Portable:
-  - [x64 / amd64](https://vencord.dev/download/vesktop/amd64/windows-portable)
-  - [Arm® 64](https://vencord.dev/download/vesktop/arm64/windows-portable)
+  - [x64 / amd64](https://scorncord.erroroliver.lol/download/vesktop/amd64/windows-portable)
+  - [Arm® 64](https://scorncord.erroroliver.lol/download/vesktop/arm64/windows-portable)
 
 ### Mac
 
-Download the latest [Vesktop.dmg](https://vencord.dev/download/vesktop/universal/dmg) or use [Homebrew](https://brew.sh/)
+Download the latest [Vesktop.dmg](https://scorncord.erroroliver.lol/download/vesktop/universal/dmg) or use [Homebrew](https://brew.sh/)
 
 ```sh
 brew install vesktop
@@ -36,20 +37,21 @@ brew install vesktop
 
 ### Linux
 
-[![Download on Flathub](https://dl.flathub.org/assets/badges/flathub-badge-en.svg)](https://flathub.org/apps/dev.vencord.Vesktop)
+Flathub coming soon.
+<!--[![Download on Flathub](https://dl.flathub.org/assets/badges/flathub-badge-en.svg)](https://flathub.org/apps/dev.vencord.Vesktop)-->
 
 If you don't know the difference, pick amd64.
 
 - amd64 / x86_64
-  - [AppImage](https://vencord.dev/download/vesktop/amd64/appimage)
-  - [Ubuntu/Debian (.deb)](https://vencord.dev/download/vesktop/amd64/deb)
-  - [Fedora/RHEL (.rpm)](https://vencord.dev/download/vesktop/amd64/rpm)
-  - [tarball](https://vencord.dev/download/vesktop/amd64/tar)
+  - [AppImage](https://scorncord.erroroliver.lol/download/vesktop/amd64/appimage)
+  - [Ubuntu/Debian (.deb)](https://scorncord.erroroliver.lol/download/vesktop/amd64/deb)
+  - [Fedora/RHEL (.rpm)](https://scorncord.erroroliver.lol/download/vesktop/amd64/rpm)
+  - [tarball](https://scorncord.erroroliver.lol/download/vesktop/amd64/tar)
 - Arm® 64 / aarch64
-  - [AppImage](https://vencord.dev/download/vesktop/arm64/appimage)
-  - [Ubuntu/Debian (.deb)](https://vencord.dev/download/vesktop/arm64/deb)
-  - [Fedora/RHEL (.rpm)](https://vencord.dev/download/vesktop/arm64/rpm)
-  - [tarball](https://vencord.dev/download/vesktop/arm64/tar)
+  - [AppImage](https://scorncord.erroroliver.lol/download/vesktop/arm64/appimage)
+  - [Ubuntu/Debian (.deb)](https://scorncord.erroroliver.lol/download/vesktop/arm64/deb)
+  - [Fedora/RHEL (.rpm)](https://scorncord.erroroliver.lol/download/vesktop/arm64/rpm)
+  - [tarball](https://scorncord.erroroliver.lol/download/vesktop/arm64/tar)
 
 #### Community packages
 
@@ -70,8 +72,8 @@ You need to have the following dependencies installed:
 Packaging will create builds in the dist/ folder
 
 ```sh
-git clone https://github.com/Vencord/Vesktop
-cd Vesktop
+git clone https://github.com/Scorncord/Scorntop
+cd Scorntop
 
 # Install Dependencies
 pnpm i
