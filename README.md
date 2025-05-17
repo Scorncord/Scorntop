@@ -22,14 +22,14 @@ Scorntop is a custom Discord desktop app
 
 If you don't know the difference, pick the Installer.
 
-- [Installer](https://scorncord.erroroliver.lol/download/vesktop/universal/windows)
+- [Installer](https://scorncord.erroroliver.lol/download/scorntop/universal/windows)
 - Portable:
-  - [x64 / amd64](https://scorncord.erroroliver.lol/download/vesktop/amd64/windows-portable)
-  - [Arm® 64](https://scorncord.erroroliver.lol/download/vesktop/arm64/windows-portable)
+  - [x64 / amd64](https://scorncord.erroroliver.lol/download/scorntop/amd64/windows-portable)
+  - [Arm® 64](https://scorncord.erroroliver.lol/download/scorntop/arm64/windows-portable)
 
 ### Mac
 
-Download the latest [Vesktop.dmg](https://scorncord.erroroliver.lol/download/vesktop/universal/dmg) or use [Homebrew](https://brew.sh/)
+Download the latest [Vesktop.dmg](https://scorncord.erroroliver.lol/download/scorntop/universal/dmg) or use [Homebrew](https://brew.sh/)
 
 ```sh
 brew install vesktop
@@ -43,24 +43,24 @@ Flathub coming soon.
 If you don't know the difference, pick amd64.
 
 - amd64 / x86_64
-  - [AppImage](https://scorncord.erroroliver.lol/download/vesktop/amd64/appimage)
-  - [Ubuntu/Debian (.deb)](https://scorncord.erroroliver.lol/download/vesktop/amd64/deb)
-  - [Fedora/RHEL (.rpm)](https://scorncord.erroroliver.lol/download/vesktop/amd64/rpm)
-  - [tarball](https://scorncord.erroroliver.lol/download/vesktop/amd64/tar)
+  - [AppImage](https://scorncord.erroroliver.lol/download/scorntop/amd64/appimage)
+  - [Ubuntu/Debian (.deb)](https://scorncord.erroroliver.lol/download/scorntop/amd64/deb)
+  - [Fedora/RHEL (.rpm)](https://scorncord.erroroliver.lol/download/scorntop/amd64/rpm)
+  - [tarball](https://scorncord.erroroliver.lol/download/scorntop/amd64/tar)
 - Arm® 64 / aarch64
-  - [AppImage](https://scorncord.erroroliver.lol/download/vesktop/arm64/appimage)
-  - [Ubuntu/Debian (.deb)](https://scorncord.erroroliver.lol/download/vesktop/arm64/deb)
-  - [Fedora/RHEL (.rpm)](https://scorncord.erroroliver.lol/download/vesktop/arm64/rpm)
-  - [tarball](https://scorncord.erroroliver.lol/download/vesktop/arm64/tar)
+  - [AppImage](https://scorncord.erroroliver.lol/download/scorntop/arm64/appimage)
+  - [Ubuntu/Debian (.deb)](https://scorncord.erroroliver.lol/download/scorntop/arm64/deb)
+  - [Fedora/RHEL (.rpm)](https://scorncord.erroroliver.lol/download/scorntop/arm64/rpm)
+  - [tarball](https://scorncord.erroroliver.lol/download/scorntop/arm64/tar)
 
-#### Community packages
+<!--#### Community packages
 
 Below you can find unofficial packages created by the community. They are not officially supported by us, so before reporting issues, please first confirm the issue also happens on official builds. When in doubt, consult with their packager first. The flatpak and AppImage should work on any distro that [supports them](https://flatpak.org/setup/), so I recommend you just use those instead!
 
-- Arch Linux: [Vesktop on the Arch user repository](https://aur.archlinux.org/packages?K=vesktop)
+- Arch Linux: [Vesktop on the Arch user repository](https://aur.archlinux.org/packages?K=scorntop)
 - NixOS: https://wiki.nixos.org/wiki/Discord#Vesktop
-- Slackware: [Vesktop on the SlackBuilds](https://slackbuilds.org/result/?search=vesktop)
-- Windows - Scoop: https://scoop.sh/#/apps?q=Vesktop
+- Slackware: [Vesktop on the SlackBuilds](https://slackbuilds.org/result/?search=scorntop)
+- Windows - Scoop: https://scoop.sh/#/apps?q=Vesktop-->
 
 ## Building from Source
 
