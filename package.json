@@ -1,12 +1,12 @@
 {
-    "name": "vesktop",
+    "name": "Scorntop",
     "version": "1.5.6",
     "private": true,
-    "description": "Vesktop is a custom Discord desktop app",
+    "description": "Scorntop is a custom Discord desktop app",
     "keywords": [],
-    "homepage": "https://vencord.dev/",
+    "homepage": "https://Scorncord.erroroliver.lol/",
     "license": "GPL-3.0-or-later",
-    "author": "Vendicated <vendicated@riseup.net>",
+    "author": "ErrorOliver2 <ErrorOliver2e@users.noreply.github.com>>",
     "main": "dist/js/main.js",
     "scripts": {
         "build": "tsx scripts/build/build.mts",
@@ -63,8 +63,8 @@
         "pnpm": ">=8"
     },
     "build": {
-        "appId": "dev.vencord.vesktop",
-        "productName": "Vesktop",
+        "appId": "dev.scorncord.scorntop",
+        "productName": "Scorntop",
         "files": [
             "!*",
             "!node_modules",
@@ -120,7 +120,7 @@
                     "GenericName": "Internet Messenger",
                     "Type": "Application",
                     "Categories": "Network;InstantMessaging;Chat;",
-                    "Keywords": "discord;vencord;electron;chat;",
+                    "Keywords": "discord;scorncord;electron;chat;",
                     "MimeType": "x-scheme-handler/discord",
                     "StartupWMClass": "vesktop"
                 }
