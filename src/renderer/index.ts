@@ -1,6 +1,6 @@
 /*
- * Vesktop, a desktop app aiming to give you a snappier Discord Experience
- * Copyright (c) 2023 Vendicated and Vencord contributors
+ * Scorntop, a desktop app aiming to give you a snappier Discord Experience
+ * Copyright (c) 2025 Scorncord contributors
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 
@@ -21,13 +21,13 @@ export { Settings };
 import type SettingsPlugin from "@vencord/types/plugins/_core/settings";
 
 VesktopLogger.log("read if cute :3");
-VesktopLogger.log("Vesktop v" + VesktopNative.app.getVersion());
+VesktopLogger.log("Scorncord v" + VesktopNative.app.getVersion());
 
 const customSettingsSections = (Vencord.Plugins.plugins.Settings as any as typeof SettingsPlugin).customSections;
 
 customSettingsSections.push(() => ({
-    section: "Vesktop",
-    label: "Vesktop Settings",
+    section: "Scorncord",
+    label: "Scorncord Settings",
     element: SettingsUi,
     className: "vc-vesktop-settings"
 }));
